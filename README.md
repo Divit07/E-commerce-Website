@@ -3,6 +3,7 @@
 
 This is a dummy e-commerce website frontend.
 
+
 Pages
 ------
 1. index.html (Home page)
